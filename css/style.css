@@ -1,0 +1,60 @@
+/*  */
+
+@media screen and (max-width : 920px) {
+
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+/*aqui empieza mi header */
+body{
+	background-color: #FFEFFF;
+}
+
+p{
+	background-color: #EEFFCB;
+ }
+#grande{
+	font-size:150%;
+	font-family: coursive ;
+}
+						/*logos*/
+.logos{
+	height:120px;
+	width: 100% ;
+}
+
+
+						/* fotografías*/
+#edith{
+	border-radius: 55%;
+	height: 220px;
+	width:65% ;
+
+}
+#irma{
+	border-radius: 55%;
+	width:64% ;
+	
+}
+#elief{
+	border-radius: 48%;
+	height: 214px;
+	width:62% ;	
+}
+
+.mg-p{
+	padding: 10px ;
+	margin-top: 5%;
+	margin-bottom: 5%;
+
+}
+
+/* footer*/
+
+#footer{
+	background-image: url(../img/lamb.jpg);
+}
