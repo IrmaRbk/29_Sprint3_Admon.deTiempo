@@ -9,13 +9,16 @@
 
 }
 
-/*aqui empieza mi header */
+						/*aqui empieza mi header */
 body{
 	background-color: #FFEFFF;
 }
 
 p{
 	background-color: #EEFFCB;
+ }
+ .logo{
+ 	font-size: 200%;
  }
 #grande{
 	font-size:150%;
@@ -26,7 +29,10 @@ p{
 	height:120px;
 	width: 100% ;
 }
+.milogo{
+	background-image: url(../img/dejaloir.jpg);
 
+}
 
 						/* fotografías*/
 #edith{
@@ -53,8 +59,5 @@ p{
 
 }
 
-/* footer*/
 
-#footer{
-	background-image: url(../img/lamb.jpg);
-}
+
